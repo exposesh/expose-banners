@@ -1,0 +1,4 @@
+Having trouble with EXPOSE? 
+Do not hesitate to contact me by sending an email to 
+gaetan@expose.sh or opening an issue on GitHub.
+Your current connection ID: 
