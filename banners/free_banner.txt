@@ -1,0 +1,10 @@
+Welcome to EXPOSE!
+Your no configuration, no installation, globally distributed 
+open source tool to expose your local services.
+You are using the free version of EXPOSE, which is limited to 15 minutes'
+use, two simultaneous uses and a bit rate of 100 kb/s.
+Support this open source project with a subscription at $3 per month.
+The paid version gives you no limits on usage time, simultaneous uses 
+or bandwidth, and helps an open source tool that respects privacy 
+to live on.
+Find out more at https://github.com/exposesh
