@@ -6,4 +6,4 @@ To access EXPOSE, you must be a GitHub user, have added
 a public SSH key to your GitHub account, and have added a star 
 to one of the EXPOSE repositories (to avoid improper 
 use of EXPOSE).
-Find out more at https://github.com/exposesh
+Find out more at https://expose.sh
