@@ -3,4 +3,4 @@ Your no configuration, no installation, globally distributed
 open source tool to expose your local services.
 You are using the paid version of EXPOSE, we thank you for 
 your support! 😍
-Find out more at https://github.com/exposesh
+Find out more at https://expose.sh
